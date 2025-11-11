@@ -1,0 +1,1 @@
+# go-singbox-launcher
